@@ -8,7 +8,7 @@ Design a Honda Civic into a race car on a limited budget with a primary focus on
 Pre-acquisition / Research Phase
 
 ## Structure
-- 'design-doc.md' - Design rationale, decision log, and calculations
-- 'cad/' - CAD models and drawings
-- 'photos/' - build development photos
-- 'data/' - data log for measurements, corner weights, lap times
+- `design-doc.md` - Design rationale, decision log, and calculations
+- `cad/` - CAD models and drawings
+- `photos/` - build development photos
+- `data/` - data log for measurements, corner weights, lap times
