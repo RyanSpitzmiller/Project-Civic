@@ -1,50 +1,42 @@
-# Project [Civic Name/Number] — Race Car Design Document
+# Project Civic — Race Car Design Document
 
-**Author:** [Your Name]
-**Started:** [Date]
-**Status:** Pre-acquisition planning phase
-**Platform (candidate):** [e.g., 1999-2000 Honda Civic Si, EM1 chassis]
-
-> This document is a living record of every design decision made on this build, the reasoning behind it, and the data used to make it. It starts before the car exists and gets updated continuously. Treat every entry like you're explaining the decision to an engineering manager who will ask "why?"
+**Author:** [Ryan Spitzmiller]
+**Started:** [July 8th 2026]
+**Status:** [Pre-acquisition planning phase]
+**Platform (candidate):** [1999-2000 DX Honda Civic, EK Chassis, 3-door hatchback]
 
 ---
 
 ## 1. Project Goals & Requirements
 
-*Everything below traces back to this section. If a decision doesn't serve one of these goals, question it.*
+**Primary use case:** [Wheel-to-wheel racing]
 
-**Primary use case:** [e.g., Autocross / Track days / Time attack / Wheel-to-wheel club racing]
-
-**Target sanctioning body / class (if any):** [e.g., NASA Time Trial, SCCA Solo — this matters because it sets rules constraints]
+**Target sanctioning body / class (if any):** [SCCA]
 
 **Performance targets:**
 - Target curb weight: [e.g., under 2,400 lbs, down from ~2,650 lbs stock]
 - Target power-to-weight: [fill in once engine plan is set]
 - Target skidpad / lap time benchmark: [pick a reference car/time if known]
 
-**Budget constraint:** [Total budget, or budget per phase]
+**Budget constraint:** [N/A]
 
-**Non-negotiables:** [e.g., "must remain street-legal and drivable to track days" or "daily-drivability is not a constraint, full stripped race build"]
-
-**Explicitly out of scope:** [e.g., "not chasing max horsepower, prioritizing chassis balance and driver feedback"]
+**Non-negotiables:** [Prioritization of chassis balance and driver feedback.]
 
 ---
 
 ## 2. Platform Research & Selection Rationale
 
-*Why this car, not another. This section shows you can evaluate a platform analytically, not just because you like it.*
-
 | Factor | Spec (stock) | Source |
 |---|---|---|
-| Curb weight | [XXXX lbs] | [factory manual / source] |
-| Weight distribution (F/R) | [XX/XX %] | [source] |
-| Wheelbase | [XX in] | |
-| Track width (F/R) | [XX in / XX in] | |
-| Suspension type (F) | [e.g., double wishbone] | |
-| Suspension type (R) | [e.g., double wishbone] | |
-| Engine | [code, displacement, layout] | |
-| Stock power/torque | [XX hp / XX lb-ft] | |
-| Drivetrain layout | [FWD/RWD/AWD] | |
+| Curb weight | [2359 lbs] | [Honda-Tech] |
+| Weight distribution (F/R) | [62/38 %] | [Honda-Tech] |
+| Wheelbase | [103.2 in] | |
+| Track width (F/R) | [58.1 in / 58.1 in] | |
+| Suspension type (F) | [Double wishbone] | |
+| Suspension type (R) | [Double wishbone] | |
+| Engine | [D16Y7, 1.6L, I4] | |
+| Stock power/torque | [106 hp / 103 lb-ft] | |
+| Drivetrain layout | [FWD] | |
 
 **Why this platform (trade-off reasoning):**
 > Example: "The EM1 Civic Si uses double-wishbone suspension front and rear, which is unusual for an economy car of its era and gives it superior camber control under load compared to strut-based competitors like the contemporary Civic DX. This makes it a stronger starting point for track use despite being FWD, which limits ultimate power potential compared to RWD platforms. Chose this over [alternative, e.g., Miata] because [reason — familiarity, parts cost, community support, etc.]."
