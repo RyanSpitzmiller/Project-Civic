@@ -11,16 +11,16 @@
 
 **Primary use case:** [Wheel-to-wheel racing]
 
-**Target sanctioning body / class (if any):** [SCCA]
+**Target sanctioning body:** [SCCA Touring 4 Class]
 
 **Performance targets:**
-- Target curb weight: [e.g., under 2,400 lbs, down from ~2,650 lbs stock]
-- Target power-to-weight: [fill in once engine plan is set]
-- Target skidpad / lap time benchmark: [pick a reference car/time if known]
+- Target curb weight: [~2,150-2,250 from 2,359 lbs stock; target strips off ~150-200 lbs from the interior removal, lighter wheels, battery relocation, once cage/safety gear weight accounted for.]
+- Target power-to-weight: [TBD]
+- Target skidpad / lap time benchmark: [Blackhawk Farms Raceway]
 
-**Budget constraint:** [N/A]
+**Budget constraint:** [~$15,000-20,000 over 4-6 years]
 
-**Non-negotiables:** [Prioritization of chassis balance and driver feedback.]
+**Non-negotiables:** [Prioritization of chassis balance and driver feedback instead of engine power.]
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Factor | Spec (stock) | Source |
 |---|---|---|
-| Curb weight | [2359 lbs] | [Honda-Tech] |
+| Curb weight | [2,359 lbs] | [Honda-Tech] |
 | Weight distribution (F/R) | [62/38 %] | [Honda-Tech] |
 | Wheelbase | [103.2 in] | |
 | Track width (F/R) | [58.1 in / 58.1 in] | |
@@ -39,16 +39,14 @@
 | Drivetrain layout | [FWD] | |
 
 **Why this platform (trade-off reasoning):**
-> Example: "The EM1 Civic Si uses double-wishbone suspension front and rear, which is unusual for an economy car of its era and gives it superior camber control under load compared to strut-based competitors like the contemporary Civic DX. This makes it a stronger starting point for track use despite being FWD, which limits ultimate power potential compared to RWD platforms. Chose this over [alternative, e.g., Miata] because [reason — familiarity, parts cost, community support, etc.]."
+> The EK-chassis DX hatchback shares the double-wishbone front and rear suspension geometry as every other EK trim, meaning it has fundamentally the same handling as the opposing models. Choosing the DX trades horsepower (106 hp D16Y7 vs. 160 hp B16A2) for lower curb weight and lower cost, which fits the project goal of prioritizing chassis balance over raw horsepower. The DX hatchback is chosen over a Miata (common track-build alternative) because of the larger familiarity and aftermarket parts making it cheaper overall build-wise.
 
 **Known weaknesses to design around:**
-> Example: "FWD layout means power delivery under cornering load will cause torque steer and understeer under power — front-end grip and diff behavior will be a priority design focus, not just power."
+> As a FWD platform, the DX commonly experiences understeer under power and torque steer during hard acceleration out of corners, which will need to be addressed through front-end grip (tire choice, alignment). The non-VTEC D16Y7 also has a narrower usable power band than VTEC engines, which affect gear ratio choices for Touring 4.
 
 ---
 
 ## 3. Subsystem Design Log
-
-*This is the core of the document. One entry per major decision. Copy this block for every decision you make — big or small.*
 
 ### Entry format:
 ```
