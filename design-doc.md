@@ -1,7 +1,7 @@
 # Project Civic — Race Car Design Document
 
 - **Author:** [Ryan Spitzmiller]
-- **Started:** [July 8th 2026]
+- **Started:** [July 8th, 2026]
 - **Status:** [Pre-acquisition planning phase]
 - **Platform (candidate):** [1999-2000 DX Honda Civic, EK Chassis, 3-door hatchback]
 
@@ -93,8 +93,6 @@ Open questions / risks:
 
 ## 5. Before/After Data Log
 
-*Fill in once the car is in hand. This is your proof-of-work section.*
-
 | Metric | Stock/Baseline | After Mod | Date Measured | Notes |
 |---|---|---|---|---|
 | 0-60 mph | | | | |
@@ -116,11 +114,9 @@ Open questions / risks:
 
 ## 7. Open Questions / Research To-Do
 
-*A running list — this is where "I don't know yet" lives, which is honest and normal at this stage.*
 
 - [ ] Confirm actual chassis year/trim once acquired — specs vary by model year
 - [ ] Get real corner weights before finalizing spring rates
-- [ ] Research [class] rules if entering competition, to avoid designing outside legal limits
 - [ ] Learn roll center calculation method before suspension geometry changes
 
 ---
@@ -129,4 +125,4 @@ Open questions / risks:
 
 | Date | Change |
 |---|---|
-| [Date] | Document created, initial goals and platform research |
+| [July 8th, 2026] | Document created, initial goals and platform research |
