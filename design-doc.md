@@ -1,9 +1,9 @@
 # Project Civic — Race Car Design Document
 
-**Author:** [Ryan Spitzmiller]
-**Started:** [July 8th 2026]
-**Status:** [Pre-acquisition planning phase]
-**Platform (candidate):** [1999-2000 DX Honda Civic, EK Chassis, 3-door hatchback]
+- **Author:** [Ryan Spitzmiller]
+- **Started:** [July 8th 2026]
+- **Status:** [Pre-acquisition planning phase]
+- **Platform (candidate):** [1999-2000 DX Honda Civic, EK Chassis, 3-door hatchback]
 
 ---
 
