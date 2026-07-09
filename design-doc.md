@@ -30,13 +30,13 @@
 |---|---|---|
 | Curb weight | [2,359 lbs] | [Honda-Tech] |
 | Weight distribution (F/R) | [62/38 %] | [Honda-Tech] |
-| Wheelbase | [103.2 in] | |
-| Track width (F/R) | [58.1 in / 58.1 in] | |
-| Suspension type (F) | [Double wishbone] | |
-| Suspension type (R) | [Double wishbone] | |
-| Engine | [D16Y7, 1.6L, I4] | |
-| Stock power/torque | [106 hp / 103 lb-ft] | |
-| Drivetrain layout | [FWD] | |
+| Wheelbase | [103.2 in] | [Honda Manual] |
+| Track width (F/R) | [58.1 in / 58.1 in] | [Honda Manual] |
+| Suspension type (F) | [Double wishbone] | [Honda Manual] |
+| Suspension type (R) | [Double wishbone] | [Honda Manual] |
+| Engine | [D16Y7, 1.6L, I4] | [Honda Manual] |
+| Stock power/torque | [106 hp / 103 lb-ft] | [Honda Manual] |
+| Drivetrain layout | [FWD] | [Honda Manual] |
 
 **Why this platform (trade-off reasoning):**
 > The EK-chassis DX hatchback shares the double-wishbone front and rear suspension geometry as every other EK trim, meaning it has fundamentally the same handling as the opposing models. Choosing the DX trades horsepower (106 hp D16Y7 vs. 160 hp B16A2) for lower curb weight and lower cost, which fits the project goal of prioritizing chassis balance over raw horsepower. The DX hatchback is chosen over a Miata (common track-build alternative) because of the larger familiarity and aftermarket parts making it cheaper overall build-wise.
