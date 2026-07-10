@@ -11,15 +11,17 @@
 
 **Primary use case:** [Wheel-to-wheel racing]
 
-**Target sanctioning body:** [SCCA Club Racing - Improved Touring Class]
+**Target sanctioning body:** [SCCA Club Racing - E Prepared (EP) Class]
 
 **Performance targets:**
 - Target curb weight: [~2,150-2,250 from 2,359 lbs stock; target strips off ~150-200 lbs from the interior removal, lighter wheels, battery relocation, once cage/safety gear weight accounted for.]
+- Target power-to-weight: [TBD until class race weight is confirmed via ITCS lookup — power is largely fixed under IT rules (stock cam, max 0.5-pt compression bump), expected built power ~115-125 hp. Target P/W = confirmed race weight / ~120 hp once known.]
 - Target skidpad / lap time benchmark: [1:40s at Blackhawk Farms Raceway]
 
 **Budget constraint:** [~$15,000-20,000 over 4-6 years]
 
-**Non-negotiables:** [Prioritization of chassis balance and driver feedback instead of engine power, and remaining within SCCA improved touring restrictions.]
+**Non-negotiables:** 
+- [Prioritization of chassis balance and driver feedback instead of engine power, and remaining within SCCA E prepared class restrictions.]
 
 ---
 
@@ -78,15 +80,11 @@ Open questions / risks:
 
 ## 4. Calculations & Reference Data
 
-*Track your math here, even rough hand-calcs. This is what shows engineering rigor, not just parts-swapping.*
-
 - Weight distribution (measured, once available): TBD
 - Corner weights: TBD
 - Roll center height (front/rear): TBD — calculate from suspension pickup points once measured
 - Anti-squat / anti-dive %: TBD
 - Estimated lateral g target: TBD
-
-*Recommended reference: Milliken & Milliken, "Race Car Vehicle Dynamics" — use this for the actual formulas once you get here.*
 
 ---
 
@@ -98,7 +96,7 @@ Open questions / risks:
 | Curb weight | | | | |
 | Corner weight (LF/RF/LR/RR) | | | | |
 | Skidpad (g) | | | | |
-| [Track name] lap time | | | | |
+| [Blackhawk Farm Raceway] lap time | | | | |
 
 ---
 
