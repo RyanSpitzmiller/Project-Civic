@@ -15,8 +15,7 @@
 
 **Performance targets:**
 - Target curb weight: [~2,150-2,250 from 2,359 lbs stock; target strips off ~150-200 lbs from the interior removal, lighter wheels, battery relocation, once cage/safety gear weight accounted for.]
-- Target power-to-weight: [TBD]
-- Target skidpad / lap time benchmark: [Blackhawk Farms Raceway]
+- Target skidpad / lap time benchmark: [1:40s at Blackhawk Farms Raceway]
 
 **Budget constraint:** [~$15,000-20,000 over 4-6 years]
 
